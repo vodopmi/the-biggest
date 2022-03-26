@@ -1,0 +1,74 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Red Hat Mono', monospace;
+	background: url(head.jpeg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+
+h1 {
+	font-size: 2.5rem;
+	font-weight: bold;
+	color: #D484A4;
+}
+
+hr {
+	color: #D48C84;
+	opacity: 1;
+	min-height: 5px;
+	width: 70px;
+	margin-inline: auto;
+	
+
+}
+
+
+header {
+	justify-content: center;
+}
+
+section {
+	justify-content: center;
+}
+
+.hrfix {
+	margin-inline: 0;
+}
+
+
+.jjj {
+	
+	}
+
+.buffer {
+	height: 15rem;
+}
+
+
+.btn {
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-qqq {
+	padding: 1rem 2rem;
+}
+
+.btn-primary {
+	background-color: #D48C84;
+	border-color: #D48C84;
+}
+
+.btn-primary:hover {
+	background-color: #C5655A;
+	border-color: #C5655A;
+	border-width: 2px;
+}
+
+
